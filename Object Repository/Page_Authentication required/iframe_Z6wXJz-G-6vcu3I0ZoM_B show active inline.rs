@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Z6wXJz-G-6vcu3I0ZoM_B show active inline</name>
+   <tag></tag>
+   <elementGuidId>c46dd0aa-87fb-49bb-a789-da7a0018003d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='arkose']/div/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.Z6wXJz-G-6vcu3I0ZoM_B.show.active.inline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>3b38f66d-0c58-4ef8-b71c-1dff8304b227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://client-api.arkoselabs.com/v2/2F1CD804-FE45-F12B-9723-240962EBA6F8/enforcement.df9bcb44b38c3428caa963b7d557a47a.html</value>
+      <webElementGuid>a882402e-0c62-4faa-b7a2-9d2705448ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Z6wXJz-G-6vcu3I0ZoM_B show active inline</value>
+      <webElementGuid>90e4831a-8116-4776-9853-e1ef12b2a238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Verification challenge</value>
+      <webElementGuid>cb21e5b4-8eed-40a5-a81b-e9e32aa3ec50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e</name>
+      <type>Main</type>
+      <value>enforcement-frame</value>
+      <webElementGuid>754412e0-1fda-4932-addf-0d2c7ed18e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;arkose&quot;)/div[1]/iframe[@class=&quot;Z6wXJz-G-6vcu3I0ZoM_B show active inline&quot;]</value>
+      <webElementGuid>fe3ab259-b23a-4f1d-93e5-983ecd004416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Authentication required/iframe_Sorry, something went wrong on our e_8051c0</value>
+      <webElementGuid>ca551680-00fd-4ae4-aae3-719e3369d95d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='arkose']/div/iframe</value>
+      <webElementGuid>85436bf0-54da-47b9-9d05-f5960c51dee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>0db423f8-b166-47d1-9288-2ec91cb8e11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://client-api.arkoselabs.com/v2/2F1CD804-FE45-F12B-9723-240962EBA6F8/enforcement.df9bcb44b38c3428caa963b7d557a47a.html' and @title = 'Verification challenge']</value>
+      <webElementGuid>24ffd55a-2fdf-4a7b-8e74-b237c66f83ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pick the goat_ChallengeSelectableOverlay__c8387d</name>
+   <tag></tag>
+   <elementGuidId>9ffb8ea4-5ca9-439d-ba1a-58de30643b66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='image4']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ChallengeSelectableOverlay__StyledElement-sc-6lu34v-0.jHFDJk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14ad6b03-6e0a-42bc-bdb3-64e9444a529c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>90a9bba8-7450-4c02-8ae0-f5453fb265d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>390f009c-6879-4bfc-9348-d595ec61b2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Image 4.</value>
+      <webElementGuid>08bbe66b-2bc2-44bd-a97a-c62f53893f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ChallengeSelectableOverlay__StyledElement-sc-6lu34v-0 jHFDJk</value>
+      <webElementGuid>74b47868-2b9e-4455-97a3-2cd86dd2ca02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;image4&quot;)/a[@class=&quot;ChallengeSelectableOverlay__StyledElement-sc-6lu34v-0 jHFDJk&quot;]</value>
+      <webElementGuid>b7bdf0f1-c813-47b9-a598-db84bfa0f123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Authentication required/iframe_Audio challenge is available below. _e329ec</value>
+      <webElementGuid>2ab18952-f8f4-409b-a20e-bc664f6d2cfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='image4']/a</value>
+      <webElementGuid>9ce49d85-285c-4f79-bc8e-503a57041f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>a0282ab3-eeb5-4b7d-99ca-360802739a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>2ae41ae3-e511-40a1-93f6-76b581b749d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>1790085f-4b19-4d3c-9ce3-8e6382689b26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
